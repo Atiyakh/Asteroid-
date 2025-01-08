@@ -11,7 +11,11 @@ Asteroid is a custom-built, block-based programming language designed to simplif
 - **String Manipulation**: Tools for working with and modifying strings.
 - **Extensibility**: Easily add new features and functions to the language.
 
-Future Improvements
+## Insider look
+
+![Asteroid Screenshot](https://raw.githubusercontent.com/Atiyakh/Asteroid-/refs/heads/main/INSIDER_LOOK/Screenshot%202024-12-24%20110717.png)
+
+##Future Improvements
 - **Database integration (in progress).
 - **Advanced string manipulation and text processing features.
 - **GUI-based block editor to make programming even easier.
