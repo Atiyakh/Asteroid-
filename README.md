@@ -13,10 +13,12 @@ Asteroid is a custom-built, block-based programming language designed to simplif
 
 ## Insider Look
 
-Below are some screenshots that provide an inside look at Asteroid's development and features:
+Below are some screenshots that provide an inside look at Asteroid's development and features, some of the images will show the blackspace packed with different supported functionalities, others for the database unit, or some other features and pages:
 
 - **Screenshot 1**:
+
 ![Screenshot 2024-12-24 110717](https://raw.githubusercontent.com/Atiyakh/Asteroid-/refs/heads/main/INSIDER_LOOK/Screenshot%202024-12-24%20110717.png)
+
 
 - **Screenshot 2**:
 ![Screenshot 2024-12-24 193622](https://raw.githubusercontent.com/Atiyakh/Asteroid-/refs/heads/main/INSIDER_LOOK/Screenshot%202024-12-24%20193622.png)
